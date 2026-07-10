@@ -4,6 +4,9 @@
 
 BlueStacks 5 Advanced Setup · Android emulator · App testing · Windows desktop
 
+> Full BlueStacks desktop player setup with advanced instance controls and extended app compatibility — not a stripped-down build.
+
+
 ## Install on Windows
 
 **Do this:**
@@ -30,6 +33,7 @@ Notes for users who need **BlueStacks 5 Advanced Setup** running on Windows — 
 
 ## What this repo covers
 
+- Advanced Android desktop player — extended controls and compatibility modules included
 - Clean install path on Windows 10/11
 - Typical virtualization and graphics blockers
 - Search phrases for BlueStacks setup errors
